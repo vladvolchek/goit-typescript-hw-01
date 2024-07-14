@@ -1,5 +1,4 @@
-let person: unknown
-person = "Max";
-person = 21;
+let person: [string, number];
+person = ["Max", 21];
 
-export { };
+export {};
